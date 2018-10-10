@@ -8,7 +8,7 @@ Goal is to compare 0-30s and 30-60s spectograms in order to identify which data 
 
 data for the spectograms and csv files will be coming up by the end of October.
 Music test.ipynb contains the source code.
-Spectogram.ipynb is the revised. 
+Spectogram.ipynb is the revised (credits to Gibran from CBD Indonesia for the assistance with the model training)
 
 
 
