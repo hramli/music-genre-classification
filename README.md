@@ -12,5 +12,5 @@
 <p><strong>Spectogram.ipynb</strong> is the revised (credits to Gibran from CBD Indonesia for the assistance with the model training and display of result)</p>
 
 <ul>
-  <li>Model still has to be trained on a faster computer or on a server.<li>
+  <li>Model still has to be trained on a faster computer or on a server.</li>
 </ul>
