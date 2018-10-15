@@ -5,6 +5,7 @@
 <h2>Music genre classification using convolutional neural network.</h2>
 <p>Uses CNN Keras model, train test split, to genre classify audio spectrograms into Rock, Pop or Jazz.</p>
 <p>Goal is to compare 0-30s and 30-60s spectograms in order to identify which data gives a more accurate classification.</p>
+<p>Uses only 3x3 filters and 2x2 kernels. 
 
 <hr>
 <p>data for the spectrograms and csv files will be coming up by the end of October.</p>
